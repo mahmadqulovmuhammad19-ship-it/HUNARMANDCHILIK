@@ -1,2 +1,2 @@
 # HUNARMANDCHILIK
-Bu o'zbek hunarmandchiligi sayti
+My Craftsmanship website project
